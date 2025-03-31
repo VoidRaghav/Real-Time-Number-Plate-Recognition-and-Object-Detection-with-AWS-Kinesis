@@ -1,6 +1,10 @@
 # real-time-number-plate-recognition-anpr
 
 <p align="center">
+<a href="https://raw.githubusercontent.com/VoidRaghav/Real-Time-Number-Plate-Recognition-and-Object-Detection-with-AWS-Kinesis/refs/heads/main/thumbnail_new.webp">
+    <img width="100%" src="thumbnail.jpg" alt="Watch the video">
+</a>
+    
 </p>
 
 ## pipeline
